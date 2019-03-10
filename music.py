@@ -266,4 +266,4 @@ async def volume(con, vol: float):
         servers_songs[con.message.server.id].volume = vol
 
 
-bot.run('bot token')
+bot.run('NTU0NDA1OTc1MTA5NDAyNjI1.D2cKYg.Y-ZLbh7k914GhQXT89qoC0QaAT0')
